@@ -15,3 +15,6 @@ youtubei.googleapis.com
 youtube.googleapis.com
 youtube-nocookie.com
 youtu.be
+googlevideo.com
+youtubei.googleapis.com
+yt3.ggpht.com
