@@ -18,3 +18,4 @@ youtu.be
 googlevideo.com
 youtubei.googleapis.com
 yt3.ggpht.com
+||googlevideo.com^
