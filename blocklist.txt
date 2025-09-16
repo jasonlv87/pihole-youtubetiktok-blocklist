@@ -8,7 +8,7 @@ byteoversea.com
 tiktokv.com
 tik-tokcdn.com
 tiktokcdn.com
-youtube.com
+||youtube.com^
 www.youtube.com
 m.youtube.com
 youtubei.googleapis.com
